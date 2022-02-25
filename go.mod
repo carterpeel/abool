@@ -1,3 +1,3 @@
-module github.com/tevino/abool
+module github.com/carterpeel/abool
 
-go 1.14
+go 1.17
