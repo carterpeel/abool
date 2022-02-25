@@ -1,3 +1,3 @@
-module github.com/carterpeel/abool
+module abool
 
 go 1.17
